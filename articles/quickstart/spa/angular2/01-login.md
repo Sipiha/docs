@@ -14,4 +14,4 @@ useCase: quickstart
 ---
 <%= include('../_includes/_getting_started', { library: 'Angular 2+', callback: 'http://localhost:3000/callback', showLogoutInfo: true, showWebOriginInfo: true }) %>
 
-<%= include('_includes/_centralized_login') %>
+<%= include('_includes/_centralized_login') %>ff
